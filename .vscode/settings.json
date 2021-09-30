@@ -1,0 +1,9 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "*.py": "python",
+        "iostream": "cpp",
+        "xutility": "cpp",
+        "fstream": "cpp"
+    }
+}
